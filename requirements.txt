@@ -1,0 +1,31 @@
+# Core Libraries
+numpy
+pandas
+
+# NLP Processing
+nltk
+spacy
+textblob
+
+# Deep Learning
+tensorflow
+keras
+
+# Tokenization & Preprocessing
+scikit-learn
+
+# Visualization (optional but useful)
+matplotlib
+seaborn
+
+# Jupyter Notebook (for development)
+notebook
+
+# Optional: For better performance
+tqdm
+
+# Optional: For saving/loading models
+h5py
+
+# Optional: If using word embeddings
+gensim
