@@ -1,6 +1,7 @@
 # Core Libraries
 numpy
 pandas
+streamlit==1.32.2
 
 # NLP Processing
 nltk
